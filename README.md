@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-This repository holds data and code for a broad analysis of dengue risk in Brazilian municipalities. The project combines epidemiological, climate, and socioeconomic data to build predictive models, detect spatial patterns, and describe municipal risk profiles.
+This repository holds data and code for a broad analysis of viral risk in Brazilian municipalities. The project combines epidemiological, climate, and socioeconomic data to build predictive models, detect spatial patterns, and describe municipal risk profiles.
 
 The method has three main steps:
 

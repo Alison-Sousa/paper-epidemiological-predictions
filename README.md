@@ -47,11 +47,14 @@ The project is organized in these folders:
 #### 🔹 `/data/Python`
 Primary data by municipality.
 
-• `ds1.csv`: Epidemiological data. Historical dengue cases by municipality.  
-•  **`ds2.csv`**: Climate and geographic data. Municipal-level variables such as temperature, precipitation, altitude, and Köppen–Geiger climate classification  
-  ([Köppen Brazil Database](https://github.com/italocegatta/koppenbrasil.github.io/blob/master/dados/munic_dados.csv)).
-• **`ds3.csv`**: Socioeconomic and infrastructure data. Indicators including GDP per capita, sanitation, solid waste collection, internet access, housing adequacy, and social progress metrics  
-  ([IPS Brazil Database](https://ipsbrasil.org.br/pt/explore/dados)).
+- • **`ds1.csv`**: Epidemiological data. Historical dengue cases by municipality  
+  ([DATASUS Database](https://datasus.saude.gov.br/)).
+
+- • **`ds2.csv`**: Climate and geographic data. Municipal-level variables such as temperature, precipitation, altitude, and Köppen–Geiger climate classification  
+  ([Köppen Brasil Database](https://github.com/italocegatta/koppenbrasil.github.io/blob/master/dados/munic_dados.csv)).
+
+- • **`ds3.csv`**: Socioeconomic and infrastructure data. Indicators including GDP per capita, sanitation, solid waste collection, internet access, housing adequacy, and social progress metrics  
+  ([IPS Brasil Database](https://ipsbrasil.org.br/pt/explore/dados)).
 
 #### 🔹 `/data/R`
 Outputs from the modeling phase, used in spatial analysis.
